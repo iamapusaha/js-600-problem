@@ -1,6 +1,6 @@
 //page no 93
 //Practice problem no 01
-const number = [71, 79];
+const number = [71, 72, 73, 74, 75, 76, 77, 78, 79];
 
 //02
 const fruits = ["apple", "banana", "orange", "mango", "guava"];
